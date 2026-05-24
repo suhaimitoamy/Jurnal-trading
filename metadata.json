@@ -1,0 +1,6 @@
+{
+  "name": "Trading Library Manager",
+  "description": "Aplikasi manajemen materi dan jurnal trading lokal dan offline dengan asisten cerdas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

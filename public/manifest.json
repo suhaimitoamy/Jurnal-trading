@@ -1,0 +1,15 @@
+{
+  "short_name": "TradeLib",
+  "name": "Trading Library Manager",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#0b100e",
+  "background_color": "#0b100e"
+}
